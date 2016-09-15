@@ -1,0 +1,24 @@
+{
+  "name": "wee12-nodesql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergsal/week12-nodeSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergsal/week12-nodeSQL/issues"
+  },
+  "homepage": "https://github.com/sergsal/week12-nodeSQL#readme"
+}
